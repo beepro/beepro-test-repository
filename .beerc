@@ -1,1 +1,1 @@
-{"dance":{"url":"wss://honeycomb-v1.herokuapp.com/ws/honeys/beepro-test"}}
+{"dance":{"url":"ws://localhost:5432/ws/honeys/beepro-test"}}
